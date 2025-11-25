@@ -7,7 +7,7 @@ export default function TeamSection() {
   const people = {
     huzain: {
       name: "Dr. Muhammed Huzain KM",
-      role: "Co-Founder",
+      role: "Founder",
       img: "/huzain.jpg",
       title: "About Dr. Muhammed Huzain KM",
       bio: `Dr. Muhammed Huzain KM is a visionary dedicated to advancing human longevity by integrating wellness science with technology-enabled environmental design. His mission centers on creating adaptive spaces that naturally promote long-term healthy living by harmonizing behavior, environment, and intelligent systems. With a deep passion for habitual longevity, he works to redefine how people interact with their surroundings, ensuring technology supports well-being rather than disrupts it. His expertise spans lifestyle engineering, environmental psychology, and tech-driven wellness innovation, empowering individuals and communities to live healthier, more balanced, and resilient lives through thoughtfully crafted, future-aligned environments.`,
