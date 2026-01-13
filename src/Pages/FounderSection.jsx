@@ -17,7 +17,7 @@ export default function TeamSection() {
       role: "Co-Founder",
       img: "/saleeque.png",
       title: "About SALEEQUE MP",
-      bio: `Saleeque MP is a deep-tech strategist and AI architect with a rich, cross-industry background spanning edtech, medtech, agritech, and buildtech. With over 15 years of innovation leadership, he has designed and deployed intelligent systems built on AI agents, robotics, digital twins, and immersive metaverse technologies. His work blends scientific research with practical engineering, enabling organizations to adopt scalable automation and future-ready digital ecosystems. As a digital health architect and technology consultant, he specializes in solving high-complexity problems through structured thinking, systems engineering, and applied intelligence. His mission is to transform industries by building advanced AI-driven platforms that create lasting impact.`,
+      bio: `Saleeque MP is a high-intelligence medical systems strategist and AI architect with deep expertise across digital health, medtech, and human intelligence sciences. With over 15 years of leadership, he has contributed to the design of advanced medical digital twins, AI-driven medical applications, and human psychometric analysis systems operating within regulated healthcare environments. His work reflects strong command over medical data structures, compliance-aware architectures, and clinical-aligned system design. Integrating scientific research with rigorous systems engineering, he operates at the intersection of medical intelligence, human behavior modeling, and applied AI. His focus is on building medically grounded, ethically aligned, and future-ready intelligence platforms.`,
     },
   };
 
@@ -58,7 +58,7 @@ export default function TeamSection() {
             {person.title}
           </h2>
 
-          <p className="text-gray-300 leading-8 text-xl">
+          <p className="text-gray-300 leading-8 text-xl text-justify">
             {person.bio}
           </p>
         </div>
