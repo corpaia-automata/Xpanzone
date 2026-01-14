@@ -63,9 +63,7 @@ const AboutUs = () => {
             <h3 className="text-lg font-semibold text-black">Our</h3>
             <h2 className="text-4xl font-extrabold mb-4 text-black">MISSION</h2>
             <p className="text-base text-black max-w-sm">
-              To create adaptive wellness spaces that help people live better—
-              combining smart design, behavioral science, and emotional well-being
-              into everyday environments that nudge healthier habits.
+            To transform industries through AI Living Systems— from performance chambers to Xpanzone City—that promote habitual longevity, operational excellence, and measurable long-term value,
             </p>
           </div>
           <Target className="absolute bottom-4 right-4 w-24 h-24 text-gray-600 opacity-20" />
